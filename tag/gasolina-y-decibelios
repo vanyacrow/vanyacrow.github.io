@@ -23,7 +23,7 @@
     
     
     <link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="../assets/css/main.css?v=62c171c648" />
+    <link rel="stylesheet" type="text/css" href="../assets/css/main.css?v=86e9c0dd48" />
     <style>
         /* Gulp keeps removing webkit/moz support */
           *{
@@ -32,11 +32,11 @@
               box-sizing: border-box;         /* Opera/IE 8+ */
           }
     </style>
-    <script src="../assets/scripts/vendor/modernizr.js?v=62c171c648"></script>
+    <script src="../assets/scripts/vendor/modernizr.js?v=86e9c0dd48"></script>
 
     <link rel="canonical" href="http://localhost:2368/tag/gasolina-y-decibelios/" />
     <meta name="generator" content="Ghost 0.5" />
-    <link rel="alternate" type="application/rss+xml" title="Antibiographía" href="../rss.1" />
+    <link rel="alternate" type="application/rss+xml" title="Antibiographía" href="../rss.2" />
 </head>
 <body itemscope itemtype="http://schema.org/Blog">
     <!--[if lt IE 10]>
@@ -50,7 +50,7 @@
          <li><a href="una-teoria-de-mi">Una Teor&iacute;a de m&iacute;</a></li>
          <li><a href="a-theory-of-me">A Theory of Me</a></li>
          <!-- li><a href="/about">About me</a></li -->
-         <li><a href="../rss.1">RSS</a></li>
+         <li><a href="../rss.2">RSS</a></li>
          
          
          <!-- li class="side-header">Follow Me</li -->
@@ -128,26 +128,26 @@
     </div>
 
 
-    <script src="../public/jquery.js?v=62c171c648"></script>
+    <script src="../public/jquery.js?v=86e9c0dd48"></script>
 
     
-    <script src="../assets/scripts/backstretch.min.js?v=62c171c648"></script>
+    <script src="../assets/scripts/backstretch.min.js?v=86e9c0dd48"></script>
     
-    <script src="../assets/scripts/highlight.pack.js?v=62c171c648"></script>
+    <script src="../assets/scripts/highlight.pack.js?v=86e9c0dd48"></script>
 
-    <script src="../assets/scripts/imagesloaded.min.js?v=62c171c648"></script>
+    <script src="../assets/scripts/imagesloaded.min.js?v=86e9c0dd48"></script>
 
-    <script src="../assets/scripts/readingTime.min.js?v=62c171c648"></script>
+    <script src="../assets/scripts/readingTime.min.js?v=86e9c0dd48"></script>
 
-    <script src="../assets/scripts/jquery.fitvids.js?v=62c171c648"></script>
+    <script src="../assets/scripts/jquery.fitvids.js?v=86e9c0dd48"></script>
 
-    <script src="../assets/scripts/jquery.fluidbox.min.js?v=62c171c648"></script>
+    <script src="../assets/scripts/jquery.fluidbox.min.js?v=86e9c0dd48"></script>
 
-    <script src="../assets/scripts/infinitescroll.js?v=62c171c648"></script>
+    <script src="../assets/scripts/infinitescroll.js?v=86e9c0dd48"></script>
 
-    <script src="../assets/scripts/nanobar.min.js?v=62c171c648"></script>
+    <script src="../assets/scripts/nanobar.min.js?v=86e9c0dd48"></script>
 
-    <script src="../assets/scripts/main.js?v=62c171c648"></script>
+    <script src="../assets/scripts/main.js?v=86e9c0dd48"></script>
 
 
 </body>
