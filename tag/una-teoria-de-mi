@@ -36,7 +36,7 @@
 
     <link rel="canonical" href="http://localhost:2368/tag/una-teoria-de-mi/" />
     <meta name="generator" content="Ghost 0.5" />
-    <link rel="alternate" type="application/rss+xml" title="Antibiographía" href="../rss.2" />
+    <link rel="alternate" type="application/rss+xml" title="Antibiographía" href="../rss.3" />
 </head>
 <body itemscope itemtype="http://schema.org/Blog">
     <!--[if lt IE 10]>
@@ -46,11 +46,11 @@
          <ul>
          <!-- li class="side-header">Links</li -->
          <li class="side-header"><a href="../index.html">Antibiographía</a></li>
-         <li><a href="gasolina-y-decibelios">Gasolina y Decibelios</a></li>
+         <li><a href="gasolina-y-decibelios/index.html">Gasolina y Decibelios</a></li>
          <li><a href="una-teoria-de-mi">Una Teor&iacute;a de m&iacute;</a></li>
          <li><a href="a-theory-of-me">A Theory of Me</a></li>
          <!-- li><a href="/about">About me</a></li -->
-         <li><a href="../rss.2">RSS</a></li>
+         <li><a href="../rss.3">RSS</a></li>
          
          
          <!-- li class="side-header">Follow Me</li -->
