@@ -622,7 +622,7 @@ p{
 	
 body{
 	background:#fff;
-	font-family:"Josefin Slab","Merriweather",serif;
+	font-family:"Merriweather",serif;
 	font-weight:300;
 	color:#222;
 	overflow-x:hidden;
@@ -781,7 +781,7 @@ body a:hover{
 .main-header .inner-header h1{
 	font-family:"Josefin Slab",sans-serif;
 	font-weight:300;
-	font-size:50px;
+	font-size:44px;
 	margin:0;
 	padding:0;
 	line-height:58px
@@ -896,7 +896,7 @@ body a:hover{
 	}
 	
 .post blockquote,.post section{
-	font-size:22px;
+	font-size:18px;
 	font-style:normal;
 	letter-spacing:normal;
 	line-height:1.7em
