@@ -622,7 +622,7 @@ p{
 	
 body{
 	background:#fff;
-	font-family:"Merriweather",serif;
+	font-family:"Josefin Slab","Merriweather",serif;
 	font-weight:300;
 	color:#222;
 	overflow-x:hidden;
@@ -896,7 +896,7 @@ body a:hover{
 	}
 	
 .post blockquote,.post section{
-	font-size:18px;
+	font-size:22px;
 	font-style:normal;
 	letter-spacing:normal;
 	line-height:1.7em
