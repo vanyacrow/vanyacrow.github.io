@@ -92,6 +92,8 @@ h4, h5, h6 {
     animation-delay: 0.1s;
 }
 
+
+
 @media only screen and (max-width: 900px) {
     .static-page-link {
         font-size: 1.8rem;
@@ -99,11 +101,19 @@ h4, h5, h6 {
     }
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 500px) {
     .static-page-link {
         font-size: 1.6rem;
     }
+    
+    .page-title {
+        font-size: 3.6rem;
+        letter-spacing: 2px;
+        margin-top: 5rem;
+    }
 }
+
+
 
 .post-date,
 .post-template .post-date {
