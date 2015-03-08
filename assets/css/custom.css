@@ -27,6 +27,10 @@ h4, h5, h6 {
 .subscribe-button:before {
     font-size: 14px;
 }
+/* Apply these base styles to all icons */
+[class^="icon-"]:before, [class*=" icon-"]:before {
+    line-height: 36px;
+}
 
 .page-title {
     font-family: "Josefin Slab", "Open Sans", sans-serif;
