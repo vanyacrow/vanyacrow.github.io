@@ -29,7 +29,29 @@ h4, h5, h6 {
 }
 /* Apply these base styles to all icons */
 [class^="icon-"]:before, [class*=" icon-"]:before {
-    line-height: 36px;
+    line-height: 40px;
+}
+
+.blog-logo {
+    background: rgba(0,0,0,0.1);    
+    border: transparent 0px solid;
+    border-radius: 3px;
+    transition: all ease 0.3s;
+}
+
+.blog-logo img {
+    padding: 0;
+    margin: 4px;
+    transition: all ease 0.3s;
+}
+
+.blog-logo img:hover {
+    filter: invert(1);
+	-webkit-filter: invert(1);
+	-moz-filter: invert(1);
+	-o-filter: invert(1);
+	-ms-filter: invert(1);
+    transition: all ease 0.3s;
 }
 
 .page-title {
