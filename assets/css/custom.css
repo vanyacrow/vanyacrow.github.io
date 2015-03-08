@@ -1,9 +1,62 @@
+h1, h2, h3,
+h4, h5, h6 {
+    font-family: "Josefin Sans", "Open Sans", sans-serif;
+}
+
+.main-nav {
+    position: relative;
+    padding: 35px 40px;
+    margin: 0 0 30px 0;
+}
+.main-nav a {
+    font-family: "Josefin Sans", "Open Sans", sans-serif;
+}
+.back-button {
+    padding: 2px 15px 0 10px;
+}
+.back-button:before {
+    bottom: -1px;
+}
+.subscribe-button {
+    height: 42px;
+    padding: 0px 6px 0px 14px;
+    border: transparent 0px solid;
+    font-size: 14px;
+    line-height: 46px;
+}
+.subscribe-button:before {
+    font-size: 14px;
+}
+
+.page-title {
+    font-family: "Josefin Slab", "Open Sans", sans-serif;
+    font-size: 5rem;
+    letter-spacing: 2px;
+    font-weight: 300;
+}
+
+.post-meta {
+    font-family: "Josefin Sans", "Open Sans", sans-serif;
+    font-size: 1.7rem;
+    line-height: 2.5rem;
+}
+
+.pagination {
+    font-family: "Josefin Sans", "Open Sans", sans-serif;
+    font-size: 1.5rem;
+}
+
+.site-footer {
+    font-family: "Josefin Sans", "Open Sans", sans-serif;
+    font-size: 1.2rem;
+}
+
 .static-page-link {
     margin-top: 5rem;
-    font-size: 1.8rem;
+    font-size: 2rem;
     line-height: 1.5em;
     font-weight: 400;
-    font-family: Open Sans, sans-serif;
+    font-family: "Josefin Sans", "Open Sans", sans-serif;
     letter-spacing: 0.01rem;
     color: rgba(255,255,255,0.8);
 }
