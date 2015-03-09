@@ -40,7 +40,7 @@ h4, h5, h6 {
 }
 
 .blog-logo img {
-    padding: 0;
+    padding: 4px;
     margin: 4px;
     transition: all ease 0.3s;
 }
