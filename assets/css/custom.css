@@ -187,6 +187,11 @@ h4, h5, h6 {
     line-height: 3.2rem;
 }
 
+.post-footer {
+    margin: 12rem 0 0 0;
+}
+
+
 /*
 .vertical-post {
     display: table-cell;
