@@ -73,6 +73,13 @@ h4, h5, h6 {
     font-weight: 300;
 }
 
+.vertical{
+    background: -moz-radial-gradient(rgba(0,0,0,0.2) 0%, rgba(0,0,0,0) 100%);
+    background: -o-radial-gradient(color-stop(0%,rgba(0,0,0,0.2)), color-stop(100%,rgba(0,0,0,0)));
+    background: -webkit-radial-gradient(rgba(0,0,0,0.2) 0%,rgba(0,0,0,0) 100%);
+    background: radial-gradient(rgba(0,0,0,0.2) 0%,rgba(0,0,0,0) 100%);
+}
+
 .page-description {
     font-size: 2.4rem;
     font-weight: 300;
