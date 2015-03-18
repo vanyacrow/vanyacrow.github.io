@@ -42,15 +42,20 @@ h4, h5, h6 {
 .blog-logo img {
     padding: 4px;
     margin: 4px;
-    transition: all ease 0.3s;
-}
-
-.blog-logo img:hover {
     filter: invert(1);
 	-webkit-filter: invert(1);
 	-moz-filter: invert(1);
 	-o-filter: invert(1);
 	-ms-filter: invert(1);
+    transition: all ease 0.3s;
+}
+
+.blog-logo img:hover {
+    filter: invert(0);
+	-webkit-filter: invert(0);
+	-moz-filter: invert(0);
+	-o-filter: invert(0);
+	-ms-filter: invert(0);
     transition: all ease 0.3s;
 }
 
